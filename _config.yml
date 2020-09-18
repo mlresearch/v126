@@ -1,0 +1,94 @@
+---
+booktitle: Proceedings of the 5th Machine Learning for Healthcare Conference
+volume: 126
+shortname: MLHC
+year: '2020'
+start: 2020-08-07
+end: 2020-08-08
+published: 2020-09-18
+url: http://proceedings.mlr.press
+conference_number: '5'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MLHC-2020
+month: 0
+cycles: false
+bibtex_editor: Doshi-Velez, Finale and Fackler, Jim and Jung, Ken and Kale, David
+  and Ranganath, Rajesh and Wallace, Byron and Wiens, Jenna
+editor:
+- given: Finale
+  family: Doshi-Velez
+- given: Jim
+  family: Fackler
+- given: Ken
+  family: Jung
+- given: David
+  family: Kale
+- given: Rajesh
+  family: Ranganath
+- given: Byron
+  family: Wallace
+- given: Jenna
+  family: Wiens
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 5th Machine Learning for Healthcare Conference
+    Held in Virtual on 07-08 August 2020
+
+  Published as Volume 126 by the Proceedings of Machine Learning Research on 18 September 2020.
+
+  Volume Edited by:
+    Finale Doshi-Velez
+    Jim Fackler
+    Ken Jung
+    David Kale
+    Rajesh Ranganath
+    Byron Wallace
+    Jenna Wiens
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 07--08 Aug
+author:
+  name: PMLR
+baseurl: "/v126"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v126
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Machine Learning for Healthcare Conference
+  url: 
+  location: Virtual
+  dates:
+  - 2020-08-07
+  - 2020-08-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v126/mlhc20.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v126/mlhc20.bib
