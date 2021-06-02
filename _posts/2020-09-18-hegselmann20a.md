@@ -1,5 +1,6 @@
 ---
-abstract: "Applying machine learning in healthcare can be problematic because predictions
+abstract: |
+  Applying machine learning in healthcare can be problematic because predictions
   might be biased, can lack robustness, and are prone to overly rely on correlations.
   Interpretable machine learning can mitigate these issues by visualizing gaps in
   problem formalization and putting the responsibility to meet additional desiderata
@@ -17,7 +18,7 @@ abstract: "Applying machine learning in healthcare can be problematic because pr
   risk functions of generalized additive models with interactions and also feel confident
   to do so. However, the evaluation also identified several interpretability issues
   and it showed that interpretability of generalized additive models depends on the
-  complexity of risk functions."
+  complexity of risk functions.
 booktitle: Proceedings of the 5th Machine Learning for Healthcare Conference
 title: An Evaluation of the Doctor-Interpretability of Generalized Additive Models
   with Interactions
