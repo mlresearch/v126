@@ -11,9 +11,9 @@ abstract: "Applying machine learning in healthcare can be problematic because pr
   risk functions trained on a clinical task with twelve clinicians and collected information
   about objective and subjective factors of interpretability. The ratio of correct
   answers for dichotomous statements covering important properties of risk functions
-  was 0:83\x060:02 (n = 360) and the median of the participants’ certainty to correctly
-  understand them was Certain (n = 96) on a seven-level Likert scale (one = Very Uncertain
-  to seven = Very Certain). These results suggest that doctors can correctly interpret
+  was $0.83\pm 0.02$ (n = 360) and the median of the participants’ certainty to correctly
+  understand them was Certain ($n = 96$) on a seven-level Likert scale (one = <em>Very Uncertain</em>
+  to seven = <em>Very Certain</em>). These results suggest that doctors can correctly interpret
   risk functions of generalized additive models with interactions and also feel con\fdent
   to do so. However, the evaluation also identified several interpretability issues
   and it showed that interpretability of generalized additive models depends on the
